@@ -5,6 +5,11 @@ body {
     font-size: 25px;
 }
 
-#power{
+#power {
     background-color: bisque;
+}
+
+#rusek {
+    background-image:url(img/szerokiDominik.jpg);
+    color: azure;
 }
